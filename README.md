@@ -1,6 +1,6 @@
 # 🐭 Tom and Jerry Flutter App
 
-Welcome to my first Flutter application – a fun, project inspired by the classic duo **Tom and Jerry**!
+Welcome to my first Flutter application – a fun, project inspired by the classic duo **Tom and Jerry**!, it still a draft but i will continue update until i satisfied
 
 ## 🎯 Project Overview
 
