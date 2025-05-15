@@ -51,12 +51,6 @@ Ready to join the chase? Follow these steps:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! If you have ideas for new features, bug fixes, or just want to add some fun, feel free to open an issue or submit a pull request.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
