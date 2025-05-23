@@ -12,10 +12,7 @@ Dive into a world of mischief and mayhem! The Tom & Jerry App is designed to cap
 
 ## 🚀 Features
 
-- **Interactive Gameplay:** Experience the thrill of the chase with intuitive controls and dynamic levels.
 - **Classic Cartoon Vibes:** Enjoy graphics and sounds inspired by the original Tom & Jerry series.
-- **Leaderboards:** Compete with friends and see who's the ultimate trickster!
-- **Power-Ups & Traps:** Collect cheese, set traps, and outsmart your opponent.
 - **Regular Updates:** New levels, characters, and surprises coming soon!
 
 ---
